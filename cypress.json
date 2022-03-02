@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 120000,
+    "baseUrl": "https://demo.apps.idocket.com/demo_quartz_dc",
+    "defaultCommandTimeout": 5000
+  }
